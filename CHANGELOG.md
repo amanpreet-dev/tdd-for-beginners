@@ -10,3 +10,8 @@
 - Configuration of `jest.config.js` file
 - Additional Configuration of `tsconfig.json` file
 - Configuration of `package.json` file to inclide `jest` as a test runner
+
+# Basic Example of using TDD for adding two numbers
+
+- Create `addNumbers.spec.ts` file to write the TDD test cases for adding two numbers
+- Create `addNumbers.ts` file to write the actual code for adding two numbers
