@@ -4,7 +4,7 @@
   "description": "A step by step guide for implementing TDD using TypeScript",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
