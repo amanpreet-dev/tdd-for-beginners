@@ -23,11 +23,11 @@
 - Check the test cases defined in `palindrome.spec.ts` file by running `npm run test` command
 - Defining the test cases for the palindrome function
 
-[] An inputted string reads the same forward and backward for e.g - "racecar" .
+[x] An inputted string reads the same forward and backward for e.g - "racecar" .
 
-[] The input string which is not the same when read in reverse, is not a palindrome. e.g "hello"
+[x] The input string which is not the same when read in reverse, is not a palindrome. e.g "hello"
 
-[] The function should ignore the case while determining whether the string is palindrome or not. e.g "Madam" should be considered as a palindrome.
+[x] The function should ignore the case while determining whether the string is palindrome or not. e.g "Madam" should be considered as a palindrome.
 
 [] The function should handle spaces and recognize the input string accordingly. e.g "A man, a plan, a canal, Panama"
 
