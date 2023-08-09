@@ -29,8 +29,10 @@
 
 [x] The function should ignore the case while determining whether the string is palindrome or not. e.g "Madam" should be considered as a palindrome.
 
-[] The function should handle spaces and recognize the input string accordingly. e.g "A man, a plan, a canal, Panama"
+[x] The function should handle spaces and recognize the input string accordingly. e.g "A man, a plan, a canal, Panama"
 
 [] The function should consider special characters while determining palindrome strings. e.g "$malyalam$"
 
 [] Some of the edge cases to be considered: A single character or an empty string is also considered as a palindrome. e.g "a", "".
+
+## Consider the non-word characters like spaces, punctation marks etc while determining palindrome strings
