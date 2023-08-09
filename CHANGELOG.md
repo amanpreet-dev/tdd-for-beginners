@@ -31,8 +31,8 @@
 
 [x] The function should handle spaces and recognize the input string accordingly. e.g "A man, a plan, a canal, Panama"
 
-[] The function should consider special characters while determining palindrome strings. e.g "$malyalam$"
+[x] The function should consider special characters while determining palindrome strings. e.g "$malyalam$"
 
-[] Some of the edge cases to be considered: A single character or an empty string is also considered as a palindrome. e.g "a", "".
+[x] Some of the edge cases to be considered: A single character or an empty string is also considered as a palindrome. e.g "a", "".
 
 ## Consider the non-word characters like spaces, punctation marks etc while determining palindrome strings
